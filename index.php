@@ -69,9 +69,6 @@
 		<button class="add_btn" type="submit" name="add_btn" value="ajouter">Ajouter</button>
 	</form>
 
-
-
-
 	</main>
 	<!--FOOTER-->
 	<footer>
